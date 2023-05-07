@@ -23,3 +23,14 @@ img{
 div{
   margin: 10px;  
 }
+
+#keret
+{
+	position:absolute;
+	left:20%;
+	top:12%;
+	box-shadow: 10px -5px 20px 0px rgba(0,0,0,0.5);
+	padding: 2%;
+	width: 60%;
+	background-color: rgb(255, 255, 255, 0.7);
+}
