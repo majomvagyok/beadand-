@@ -68,5 +68,9 @@ a:link {
   .vonat{
     float: right;
     width: 400px;
-    height: 400px;
+    height: 300px;
+  }
+
+  .hely{
+    padding: 30px;
   }
